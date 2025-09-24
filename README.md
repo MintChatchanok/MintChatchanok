@@ -17,7 +17,8 @@ A computational linguist in the making, passionate about how words, data, and al
 
     🔬 Beyond the Naked Eye: Thermography Detection Model
        Regression + classification with infrared thermography, exploring how ML can power medical diagnostics.
-       https://github.com/MintChatchanok/beyond-the-naked-eye-thermography
+  
+  🔬 https://github.com/MintChatchanok/beyond-the-naked-eye-thermography
 
     🌐 What Will Happen in 2035?
        Forecasting language endangerment worldwide through ML models and geospatial analysis—predicting how linguistic diversity may shift in the future.
