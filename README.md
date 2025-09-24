@@ -22,6 +22,8 @@ A computational linguist in the making, passionate about how words, data, and al
 
     🌐 What Will Happen in 2035?
        Forecasting language endangerment worldwide through ML models and geospatial analysis—predicting how linguistic diversity may shift in the future.
+  
+  🌐 https://github.com/MintChatchanok/language-endangerment-2035
 
   🛠️ Data Experiments
 
