@@ -29,6 +29,8 @@ A computational linguist in the making, passionate about how words, data, and al
 
     📰 News in Sentiment: Analyzing the BBC
        A sentiment pipeline dissecting tone and bias across BBC news categories, showing how algorithms reveal hidden narratives in media.
+  
+  📰 https://github.com/MintChatchanok/News-in-Sentiment-Analyzing-the-BBC
 
   📚 NLP Adventures
 
