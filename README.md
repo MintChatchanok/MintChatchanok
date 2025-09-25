@@ -36,6 +36,8 @@ A computational linguist in the making, passionate about how words, data, and al
 
     ✨ From Complexity to Clarity: Summarizing Science with T5
        Transformer-based abstractive summarization that makes dense research papers more concise, readable, and accessible to broader audiences.
+  
+  📚 https://github.com/MintChatchanok/Abstractive-Text-Summarization-of-Scientific-Research-Papers
 
 🔗 **Let’s Connect**
 
